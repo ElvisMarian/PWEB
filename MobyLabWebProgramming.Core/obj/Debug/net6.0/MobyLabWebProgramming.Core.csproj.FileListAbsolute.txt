@@ -1,0 +1,12 @@
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\bin\Debug\net6.0\MobyLabWebProgramming.Core.deps.json
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\bin\Debug\net6.0\MobyLabWebProgramming.Core.dll
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\bin\Debug\net6.0\MobyLabWebProgramming.Core.pdb
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.csproj.AssemblyReference.cache
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.AssemblyInfoInputs.cache
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.AssemblyInfo.cs
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.dll
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\refint\MobyLabWebProgramming.Core.dll
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.pdb
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Core\obj\Debug\net6.0\ref\MobyLabWebProgramming.Core.dll
