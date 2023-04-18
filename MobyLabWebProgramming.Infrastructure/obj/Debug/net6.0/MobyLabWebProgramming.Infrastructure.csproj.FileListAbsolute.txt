@@ -1,0 +1,17 @@
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\bin\Debug\net6.0\MobyLabWebProgramming.Infrastructure.deps.json
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\bin\Debug\net6.0\MobyLabWebProgramming.Infrastructure.runtimeconfig.json
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\bin\Debug\net6.0\MobyLabWebProgramming.Infrastructure.dll
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\bin\Debug\net6.0\MobyLabWebProgramming.Infrastructure.pdb
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\bin\Debug\net6.0\MobyLabWebProgramming.Core.dll
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\bin\Debug\net6.0\MobyLabWebProgramming.Core.pdb
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.AssemblyInfo.cs
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.csproj.CopyComplete
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.dll
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\refint\MobyLabWebProgramming.Infrastructure.dll
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.pdb
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\MobyLabWebProgramming.Infrastructure.genruntimeconfig.cache
+C:\Users\elvis\Desktop\Facultate\Anul_4_\Sem2\Pweb\Proiect\dotnetbackend\MobyLabWebProgramming.Infrastructure\obj\Debug\net6.0\ref\MobyLabWebProgramming.Infrastructure.dll
